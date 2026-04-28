@@ -37,4 +37,15 @@ It focuses on analyzing overall business performance, product sales, customer be
 - DAX
 - Data Modeling
 
+---
 
+## Dashboard Preview
+
+### Business Performance Overview
+![Business Performance](business performance.png)
+
+### Product & Sales Breakdown
+![Product Sales](product & sales breakdown.png)
+
+### Store & Customer Insights
+![Customer Insights](store & customer insights.png)
