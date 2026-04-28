@@ -5,9 +5,9 @@ Power BI dashboard analyzing business performance, product sales, customer behav
 # Maven Market Business Dashboard (Power BI)
 
 ##  Overview
-This project is a Power BI dashboard built using the Maven Market dataset.  
-It focuses on analyzing overall business performance, product sales, customer behavior, and store insights.
 This dashboard was built as part of my portfolio to analyze retail business performance using Power BI.
+It focuses on analyzing overall business performance, product sales, customer behavior, and store insights.
+
 ---
 
 ##  Key Areas Covered
