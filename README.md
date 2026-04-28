@@ -41,11 +41,6 @@ It focuses on analyzing overall business performance, product sales, customer be
 
 ## Dashboard Preview
 
-### Business Performance Overview
-![Business Performance](business performance.png)
-
-### Product & Sales Breakdown
-![Product Sales](product & sales breakdown.png)
-
-### Store & Customer Insights
-![Customer Insights](store & customer insights.png)
+![Business Performance](business-performance.png)
+![Product Sales](product-sales.png)
+![Customer Insights](customer-insights.png)
