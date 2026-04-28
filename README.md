@@ -18,10 +18,12 @@ It focuses on analyzing overall business performance, product sales, customer be
 ---
 
 ##  Key Observations
-- A few products contribute most of the overall sales
-- High return rate products are different from top-selling products
-- Customer behavior varies across store types
-- Revenue performance is steady across regions
+
+- Most of the sales are coming from a small group of products
+- High return rate products are different from the top-selling ones
+- This suggests returns are related to specific products, not overall sales volume
+- Recyclable category is contributing the highest share of revenue
+- A few products need attention due to consistently higher return rates
 
 ---
 
