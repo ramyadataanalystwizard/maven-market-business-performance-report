@@ -29,14 +29,13 @@ A Power BI dashboard built using Maven Market sales, product, customer, store, r
 ## Screenshots
 
 ### Business Performance Overview
-![Business Performance Overview](screenshots/business-performance-overview.png)
+![Business Performance Overview](business-performance-overview.png)
 
 ### Product & Sales Breakdown
-![Product & Sales Breakdown](screenshots/product-sales-breakdown.png)
+![Product & Sales Breakdown](product-sales-breakdown.png)
 
 ### Store & Customer Insights
-![Store & Customer Insights](screenshots/store-customer-insights.png)
-
+![Store & Customer Insights](store-customer-insights.png)
 
 ## Notes
 
