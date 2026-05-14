@@ -37,6 +37,7 @@ A Power BI dashboard built using Maven Market sales, product, customer, store, r
 ### Store & Customer Insights
 ![Store & Customer Insights](screenshots/store-customer-insights.png)
 
+
 ## Notes
 
 This project was created as part of my Power BI practice to strengthen dashboard design, DAX measures, data modeling, and business reporting skills.
