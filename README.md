@@ -1,43 +1,42 @@
-# maven-market-business-performance-report
-Power BI dashboard analyzing business performance, product sales, customer behavior, and store insights using Maven Market dataset.
+# Maven Market Business Performance Dashboard
 
+A Power BI dashboard built using Maven Market sales, product, customer, store, region, and returns data. The report focuses on business performance, product sales, return risk, customer segments, and store-level revenue trends.
 
-# Maven Market Business Dashboard (Power BI)
+## Dashboard Pages
 
-##  Overview
-This dashboard was built as part of my portfolio to analyze retail business performance using Power BI.
-It focuses on analyzing overall business performance, product sales, customer behavior, and store insights.
-
----
-
-##  Key Areas Covered
-- Business Performance Overview (Revenue, Profit, Trends)
+- Business Performance Overview
 - Product & Sales Breakdown
-- Customer & Store Insights
+- Store & Customer Insights
 
----
+## Key Features
 
-##  Key Observations
+- Revenue, profit, profit margin, transactions, and return rate KPIs
+- Monthly revenue trend analysis
+- Product-level sales and return risk analysis
+- Brand profitability comparison
+- Store type revenue and return risk analysis
+- Customer engagement and membership segmentation
+- Interactive filters for year, region, and store type
+- Reset filter buttons and page navigation
 
-- Most of the sales are coming from a small group of products
-- High return rate products are different from the top-selling ones
-- This suggests returns are related to specific products, not overall sales volume
-- Recyclable category is contributing the highest share of revenue
-- A few products need attention due to consistently higher return rates
+## Tools Used
 
----
-
-##  Challenges Faced
-- Avoiding too many repetitive visuals
-- Handling missing transaction-level data (no transaction ID)
-- Balancing clean design with meaningful insights
-
----
-
-##  Tools Used
-- Power BI
+- Power BI Desktop
+- Power Query
 - DAX
-- Data Modeling
+- CSV data sources
 
----
+## Screenshots
 
+### Business Performance Overview
+![Business Performance Overview](screenshots/business-performance-overview.png)
+
+### Product & Sales Breakdown
+![Product & Sales Breakdown](screenshots/product-sales-breakdown.png)
+
+### Store & Customer Insights
+![Store & Customer Insights](screenshots/store-customer-insights.png)
+
+## Notes
+
+This project was created as part of my Power BI practice to strengthen dashboard design, DAX measures, data modeling, and business reporting skills.
