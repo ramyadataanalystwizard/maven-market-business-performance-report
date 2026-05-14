@@ -41,8 +41,3 @@ It focuses on analyzing overall business performance, product sales, customer be
 
 ---
 
-## Dashboard Preview
-
-![Business Performance](business-performance.png)
-![Product Sales](product-sales.png)
-![Customer Insights](customer-insights.png)
